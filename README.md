@@ -21,4 +21,16 @@ This project is to simulate realistic helicopter movement.
 
 
 ## Demo Video
+
+
+https://user-images.githubusercontent.com/43451457/204075277-5783171b-b47c-4489-a5a4-f6c4d6ef7526.mp4
+
+
+
+
+## For better resolution video, click the following
 [![Demo Video](https://img.youtube.com/vi/f5Crf60yE2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=f5Crf60yE2Y)
+
+
+
+
