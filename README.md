@@ -19,5 +19,6 @@ This project is to simulate realistic helicopter movement.
 -   `w` : Move helicopter to forward with tilting
 -   `s` : Move helicopter to backward with tilting
 
+
 ## Demo Video
-![Demo Video](https://raw.githubusercontent.com/YKakdas/Helicopter-Movement-Unity/main/.github/images/demo.mp4)
+[![Demo Video](https://img.youtube.com/vi/f5Crf60yE2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=f5Crf60yE2Y)
